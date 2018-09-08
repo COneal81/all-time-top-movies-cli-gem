@@ -1,26 +1,14 @@
-# All Time Top Movies Cli Gem
+# All Time Top Movies 
 
-The All Time Top Movies Gem provides a CLI to view the top 100 Movies of All Time as per the website Rotten Tomatoes.
+This is a Ruby Gem that provides a CLI to view the top 100 movies of all time, as per the website Rotten Tomatoes.
 
 ## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'all-time-top-movies-cli-gem'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
 
     $ gem install all-time-top-movies-cli-gem
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ all-time-top-movies
 
 ## Development
 
